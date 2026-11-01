@@ -24,4 +24,4 @@ npm run build
 
 Bản cập nhật tương tác nằm trong [`slidev/`](slidev/). Xem [hướng dẫn chi tiết](slidev/README.md) và [nội dung gốc](NMTDTT-Nội-Dung-Slide-Trie.md).
 
-Các tệp PDF/PPTX trong thư mục gốc là bản xuất có sẵn, không tự đồng bộ với mã nguồn Slidev.
+Tệp PDF trong thư mục gốc là bản xuất có sẵn, không tự đồng bộ với mã nguồn Slidev.
