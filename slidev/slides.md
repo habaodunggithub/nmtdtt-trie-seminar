@@ -1398,3 +1398,13 @@ sourceSlide: 27
 <!--
 Tài liệu seminar dựa trên NMTDTT-Nội-Dung-Slide-Trie.md. Các liên kết được giữ từ tài liệu nguồn; lần chỉnh này tập trung tách nội dung và kiểm tra bản trình chiếu, không xác minh mới các bài bên ngoài.
 -->
+
+---
+
+# Mã nguồn seminar
+
+<div class="focus-content">
+
+[github.com/habaodunggithub/nmtdtt-trie-seminar](https://github.com/habaodunggithub/nmtdtt-trie-seminar)
+
+</div>
